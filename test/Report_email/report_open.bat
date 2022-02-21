@@ -1,0 +1,1 @@
+start chrome --allow-file-access-from-files file:///C:/jenkins/workspace/MS_smoke(VM1)/allure-report/index.html#

@@ -1,0 +1,2451 @@
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+84 04-20-2020 04:38PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 1856
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption AES_128
+Recording Server Media Suite Center (10.97.58.182)
+
+EXTMSEN-1625-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+Dialing...
+1023 SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type
+Audio Call Rate (Kbps)
+Video Type
+Video Call Rate (Kbps)
+Content Type
+Content Call Rate (Kbps)
+Status Idle
+Encryption
+Recording Server Media Suite Center (10.97.58.182)
+
+EXTMSEN-1627-Test case is passed
+
+
+EXTMSEN-1628-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+EXTMSEN-1622-Test case is passed
+[DEBUG]: [04/20/2020 05:05:20 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/elements {"using": "css selector", "value": ".portalTooltip"}]
+[DEBUG]: [04/20/2020 05:05:20 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/elements HTTP/1.1" 200 1038]
+[DEBUG]: [04/20/2020 05:05:20 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:05:20 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element/afcc1c56-5429-4e9b-972f-0ae343a0d4a6/click {"id": "afcc1c56-5429-4e9b-972f-0ae343a0d4a6"}]
+[DEBUG]: [04/20/2020 05:05:20 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element/afcc1c56-5429-4e9b-972f-0ae343a0d4a6/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:05:20 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:05:24 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element {"using": "xpath", "value": "//*[@id='dialogFirstBt']"}]
+[DEBUG]: [04/20/2020 05:05:24 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:05:24 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:05:24 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element/3a6b6b07-8018-4e97-a337-81bbf45f7d37/click {"id": "3a6b6b07-8018-4e97-a337-81bbf45f7d37"}]
+[DEBUG]: [04/20/2020 05:05:24 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element/3a6b6b07-8018-4e97-a337-81bbf45f7d37/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:05:24 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:06:34 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element {"using": "css selector", "value": "[id=\"a_1002\"]"}]
+[DEBUG]: [04/20/2020 05:06:34 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:06:34 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:06:34 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element/4e891436-1e05-434a-83bb-732746074d89/click {"id": "4e891436-1e05-434a-83bb-732746074d89"}]
+[DEBUG]: [04/20/2020 05:06:34 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element/4e891436-1e05-434a-83bb-732746074d89/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:06:34 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:06:39 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element {"using": "css selector", "value": "[id=\"a_1003\"]"}]
+[DEBUG]: [04/20/2020 05:06:39 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:06:39 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:06:39 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element/ce1de03a-d70c-4601-b385-6f517d9f8960/click {"id": "ce1de03a-d70c-4601-b385-6f517d9f8960"}]
+[DEBUG]: [04/20/2020 05:06:39 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element/ce1de03a-d70c-4601-b385-6f517d9f8960/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:06:39 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:06:43 PM] [POST http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element {"using": "xpath", "value": "//*[@id='archive-table-row-0']/td[4]"}]
+[DEBUG]: [04/20/2020 05:06:43 PM] [http://127.0.0.1:56370 "POST /session/70423de30f4f60a02752cc479a70f9cd/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:06:43 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:06:43 PM] [GET http://127.0.0.1:56370/session/70423de30f4f60a02752cc479a70f9cd/element/2bea5cbc-7f7e-4634-96f8-f418731704a9/text {"id": "2bea5cbc-7f7e-4634-96f8-f418731704a9"}]
+[DEBUG]: [04/20/2020 05:06:43 PM] [http://127.0.0.1:56370 "GET /session/70423de30f4f60a02752cc479a70f9cd/element/2bea5cbc-7f7e-4634-96f8-f418731704a9/text HTTP/1.1" 200 42]
+[DEBUG]: [04/20/2020 05:06:43 PM] [Finished Request]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+801023 (System Admin) 04-20-2020 05:11PM (GMT+05:30) H323 IN 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_128_STEREO
+Audio Call Rate (Kbps) 128
+Video Type H264_HP
+Video Call Rate (Kbps) 4096
+Content Type H264
+Content Call Rate (Kbps) 1280
+Status Start Recording
+Encryption AES_128
+Recording Server Media Suite Center (10.97.58.182)
+
+EXTMSEN-1630-Test case is passed
+[DEBUG]: [04/20/2020 05:14:06 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/url {"url": "http://10.97.58.182/admin/login.jsf"}]
+[DEBUG]: [04/20/2020 05:14:06 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/url HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:14:06 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:11 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element {"using": "css selector", "value": "[id=\"loginForm:userName\"]"}]
+[DEBUG]: [04/20/2020 05:14:11 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:14:11 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:11 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element/b813387d-b632-46dd-a43c-db9b3eaeaab2/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "b813387d-b632-46dd-a43c-db9b3eaeaab2"}]
+[DEBUG]: [04/20/2020 05:14:11 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element/b813387d-b632-46dd-a43c-db9b3eaeaab2/value HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:14:11 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:14 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/elements {"using": "css selector", "value": ".form-control"}]
+[DEBUG]: [04/20/2020 05:14:14 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/elements HTTP/1.1" 200 169]
+[DEBUG]: [04/20/2020 05:14:14 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:14 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element/646d08cc-8d6f-4261-a251-37e7a5f0d62f/value {"text": "123", "value": ["1", "2", "3"], "id": "646d08cc-8d6f-4261-a251-37e7a5f0d62f"}]
+[DEBUG]: [04/20/2020 05:14:14 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element/646d08cc-8d6f-4261-a251-37e7a5f0d62f/value HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:14:14 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:14 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/elements {"using": "css selector", "value": ".btn"}]
+[DEBUG]: [04/20/2020 05:14:14 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/elements HTTP/1.1" 200 169]
+[DEBUG]: [04/20/2020 05:14:14 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:19 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/elements {"using": "css selector", "value": ".btn"}]
+[DEBUG]: [04/20/2020 05:14:19 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/elements HTTP/1.1" 200 169]
+[DEBUG]: [04/20/2020 05:14:19 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:19 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element/0cd62145-411f-48f1-8db4-887662d9473c/click {"id": "0cd62145-411f-48f1-8db4-887662d9473c"}]
+[DEBUG]: [04/20/2020 05:14:19 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element/0cd62145-411f-48f1-8db4-887662d9473c/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:14:19 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:14:19 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/elements {"using": "css selector", "value": "[id=\"dialOutButton\"]"}]
+[DEBUG]: [04/20/2020 05:14:19 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/elements HTTP/1.1" 200 12]
+[DEBUG]: [04/20/2020 05:14:19 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:15:29 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element {"using": "css selector", "value": "[id=\"a_1002\"]"}]
+[DEBUG]: [04/20/2020 05:15:29 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:15:29 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:15:29 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element/6fd07835-e811-4ae8-97e9-422fb5c4f3dc/click {"id": "6fd07835-e811-4ae8-97e9-422fb5c4f3dc"}]
+[DEBUG]: [04/20/2020 05:15:29 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element/6fd07835-e811-4ae8-97e9-422fb5c4f3dc/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:15:29 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:15:29 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element {"using": "css selector", "value": "[id=\"a_1003\"]"}]
+[DEBUG]: [04/20/2020 05:15:29 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:15:29 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:15:29 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element/42841295-e462-4cb4-8407-228b394ced5f/click {"id": "42841295-e462-4cb4-8407-228b394ced5f"}]
+[DEBUG]: [04/20/2020 05:15:29 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element/42841295-e462-4cb4-8407-228b394ced5f/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:15:29 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:15:33 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element {"using": "xpath", "value": "//*[@id='archive-table-row-0']/td[4]"}]
+[DEBUG]: [04/20/2020 05:15:33 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:15:33 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:15:33 PM] [GET http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element/993bf3b8-d7a8-42ff-a579-0618f8062ee1/text {"id": "993bf3b8-d7a8-42ff-a579-0618f8062ee1"}]
+[DEBUG]: [04/20/2020 05:15:33 PM] [http://127.0.0.1:56516 "GET /session/95357663573d4e051f051693047bb935/element/993bf3b8-d7a8-42ff-a579-0618f8062ee1/text HTTP/1.1" 200 42]
+[DEBUG]: [04/20/2020 05:15:33 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:15:33 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/url {"url": "http://10.97.58.171"}]
+[DEBUG]: [04/20/2020 05:15:36 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/url HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:15:36 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:16:01 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element {"using": "xpath", "value": "//*[@id='splitbutton-1040-btnIconEl']"}]
+[DEBUG]: [04/20/2020 05:16:01 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element HTTP/1.1" 200 88]
+[DEBUG]: [04/20/2020 05:16:01 PM] [Finished Request]
+[DEBUG]: [04/20/2020 05:16:01 PM] [POST http://127.0.0.1:56516/session/95357663573d4e051f051693047bb935/element/567e4bb6-0219-4a2e-a953-60e1c6188d57/click {"id": "567e4bb6-0219-4a2e-a953-60e1c6188d57"}]
+[DEBUG]: [04/20/2020 05:16:01 PM] [http://127.0.0.1:56516 "POST /session/95357663573d4e051f051693047bb935/element/567e4bb6-0219-4a2e-a953-60e1c6188d57/click HTTP/1.1" 200 14]
+[DEBUG]: [04/20/2020 05:16:01 PM] [Finished Request]
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Online
+
+EXTMSEN-1607-Test case is passed
+
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Offline
+
+EXTMSEN-1608-Test case is failed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1605-Test case is passed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-23-2021 05:25PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 12:07PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 12:14PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 12:29PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 12:36PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 12:55PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 01:07PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 01:13PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+GroupSeries-1036 03-24-2021 04:31PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+GroupSeries-1036 03-24-2021 04:39PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+GroupSeries-1036 03-24-2021 05:13PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+GroupSeries-1036 03-24-2021 05:20PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 03-24-2021 05:59PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 03-24-2021 06:19PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 03-24-2021 06:59PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 03-24-2021 07:13PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 03-24-2021 07:21PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 04:40PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 04:46PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 04:50PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 04:55PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 04:58PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 05:02PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 05:16PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 05:19PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 05:28PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 05:33PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 05:46PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 05:49PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 04:43PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 04:51PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 05:03PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 05:12PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 05:20PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 06:04PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 03:06PM (GMT+05:30) SIP OUT 75966311 1024kbps[MP4]
+Detail Call Information
+VRR Name test
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.73)
+
+EXTMSEN-1625-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-26-2021 05:03PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-26-2021 05:10PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-26-2021 05:36PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-28-2021 10:15AM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-28-2021 10:29AM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-28-2021 10:41AM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Offline
+
+EXTMSEN-1606-Test case is failed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1606-Test case is passed
+
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed
+
+Online
+
+EXTMSEN-1608-Test case is passed

@@ -1,0 +1,4577 @@
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.225 02-08-2021 07:12PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.226 02-09-2021 12:31PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.226 02-09-2021 12:42PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.226 02-09-2021 12:49PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.229 02-10-2021 03:38PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.229 02-10-2021 03:44PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.229 02-10-2021 04:16PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.229 02-10-2021 05:22PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.229 02-10-2021 05:28PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.229 02-10-2021 05:34PM (GMT+05:30) SIP OUT 21000 512kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 02-25-2021 07:27PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 02-25-2021 07:50PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 02-25-2021 07:58PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 02-25-2021 08:06PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 02-25-2021 09:09PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 02-25-2021 09:27PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500 02-26-2021 09:14AM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.216.17.172 02-26-2021 10:49AM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.216.17.172 02-26-2021 11:06AM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.216.17.172 02-26-2021 11:31AM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.216.17.172 02-26-2021 11:39AM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.216.17.172 02-26-2021 12:03PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 03-01-2021 05:37PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500 03-01-2021 06:53PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.83 03-05-2021 03:20PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.83 03-05-2021 03:42PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.83 03-05-2021 03:47PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.83 03-05-2021 03:55PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.83 03-05-2021 04:02PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.83 03-05-2021 04:08PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 03-09-2021 04:35PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 03-09-2021 04:59PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.83 03-09-2021 05:05PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-18-2021 05:28PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+GroupSeries-1036 03-18-2021 06:08PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+GroupSeries-1036 03-19-2021 12:10PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+GroupSeries-1036 03-19-2021 12:22PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+navneet15 03-19-2021 12:48PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+navneet15 03-19-2021 01:05PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+navneet15 03-19-2021 01:25PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 704
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 01:40PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+17 03-24-2021 02:09PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 06:16PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-07-2021 06:19PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-08-2021 12:13PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-08-2021 12:16PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-08-2021 12:37PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 320
+Content Type H264_HP
+Content Call Rate (Kbps) 256
+Status Start Recording
+Encryption OFF
+Recording Server node 182 (10.97.58.182)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-08-2021 12:44PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server node 182 (10.97.58.182)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-08-2021 01:10PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-08-2021 02:20PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 182 (10.97.58.182)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-08-2021 02:32PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server node 182 (10.97.58.182)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-13-2021 02:39PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-13-2021 02:42PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-13-2021 04:15PM (GMT+05:30) SIP IN 21000 256kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-13-2021 04:23PM (GMT+05:30) SIP IN 21000 256kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-13-2021 04:32PM (GMT+05:30) SIP IN 21000 256kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-13-2021 04:39PM (GMT+05:30) SIP IN 21000 256kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-13-2021 05:21PM (GMT+05:30) H323 IN 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-19-2021 05:17PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-19-2021 05:23PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-19-2021 05:56PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-19-2021 07:08PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-19-2021 07:15PM (GMT+05:30) SIP IN 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-19-2021 07:21PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-19-2021 07:32PM (GMT+05:30) H323 IN 21000 256kbps[MP4]
+
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-22-2021 04:53PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-22-2021 05:20PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1623-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-22-2021 06:36PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-22-2021 06:56PM (GMT+05:30) H323 IN 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-23-2021 08:37PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-23-2021 08:43PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-23-2021 09:15PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-23-2021 10:20PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-23-2021 10:27PM (GMT+05:30) SIP IN 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-23-2021 10:33PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-23-2021 10:44PM (GMT+05:30) H323 IN 21000 256kbps[MP4]
+
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-29-2021 06:17PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-29-2021 06:50PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-29-2021 07:53PM (GMT+05:30) SIP OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-29-2021 08:00PM (GMT+05:30) SIP IN 21000 256kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 04-29-2021 08:06PM (GMT+05:30) H323 OUT 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 04-29-2021 08:17PM (GMT+05:30) H323 IN 21000 256kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 05:24PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-25-2021 05:30PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:10PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:13PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:37PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:42PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:47PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:51PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:56PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 12:59PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 01:09PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 01:13PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 01:23PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 01:30PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264
+Video Call Rate (Kbps) 4096
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+Dialing...
+gs500-harman.com SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type
+Audio Call Rate (Kbps)
+Video Type
+Video Call Rate (Kbps)
+Content Type
+Content Call Rate (Kbps)
+Status Idle
+Encryption
+Recording Server Media Suite Center (10.97.52.62)
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90##500 05-27-2021 04:21PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 04:24PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 05:21PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 05:31PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 05-27-2021 05:39PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 05-27-2021 05:49PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 05:53PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 05-27-2021 06:02PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-27-2021 06:06PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server node 66 (10.97.52.66)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-28-2021 06:18PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 05-28-2021 06:26PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-28-2021 06:30PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 05-28-2021 07:03PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-28-2021 08:05PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 05-28-2021 08:12PM (GMT+05:30) H323 IN 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.79)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 05-28-2021 08:19PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 05-28-2021 08:25PM (GMT+05:30) H323 IN 21000 1024kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-28-2021 10:35PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-28-2021 11:01PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 05-28-2021 11:08PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-28-2021 11:12PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 05-28-2021 11:45PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 05-29-2021 12:52AM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 05-29-2021 12:59AM (GMT+05:30) H323 IN 21000 1024kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 05-29-2021 01:06AM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 05-29-2021 01:12AM (GMT+05:30) H323 IN 21000 1024kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-11-2021 01:01PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 06-11-2021 01:09PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-11-2021 01:13PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 06-11-2021 01:47PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1623-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-11-2021 02:51PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-11-2021 02:58PM (GMT+05:30) SIP IN 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 06-11-2021 03:05PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 06-11-2021 03:17PM (GMT+05:30) H323 IN 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-14-2021 03:47PM (GMT+05:30) SIP IN 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 976
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-14-2021 03:55PM (GMT+05:30) SIP IN 21000 1024kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-14-2021 04:38PM (GMT+05:30) SIP IN 21000 1024kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-14-2021 04:53PM (GMT+05:30) SIP IN 21000 1024kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-23-2021 04:12PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 960
+Content Type H264_HP
+Content Call Rate (Kbps) 512
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.73)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 06-23-2021 04:19PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.73)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-23-2021 04:23PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.73)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+500 06-23-2021 04:55PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.73)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-23-2021 05:48PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.73)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 06-23-2021 05:59PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.73)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 04:07PM (GMT+05:30) SIP OUT 24535983 1024kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 04:22PM (GMT+05:30) SIP OUT 56450016 1024kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 04:41PM (GMT+05:30) SIP OUT 79486757 1024kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 04:45PM (GMT+05:30) SIP OUT 68670033 1024kbps[MP4]
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 04:50PM (GMT+05:30) SIP OUT 49665553 1024kbps[MP4]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 04:54PM (GMT+05:30) SIP OUT 11319406 1024kbps[MP4]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 05:02PM (GMT+05:30) SIP OUT 14290131 1024kbps[MP4]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 05:35PM (GMT+05:30) SIP OUT 96652554 1024kbps[MP4]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 05:45PM (GMT+05:30) SIP OUT 14462940 1024kbps[MP4]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 05:51PM (GMT+05:30) SIP OUT 67213497 1024kbps[MP4]
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 06-29-2021 06:00PM (GMT+05:30) SIP OUT 40165575 1024kbps[MP4]
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 07-22-2021 01:10PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.76)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 07-22-2021 01:18PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.76)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 07-22-2021 01:21PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.76)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 07-22-2021 01:37PM (GMT+05:30) SIP OUT 16974279 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 07-22-2021 02:07PM (GMT+05:30) H323 OUT 21000 Stream1 - 384kbps[MP4]
+Stream2 - 320kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.76)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+gs500-harman.com 07-22-2021 02:51PM (GMT+05:30) SIP OUT 21000 Stream2 - 320kbps[MP4]
+Stream1 - 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.76)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 07-22-2021 02:58PM (GMT+05:30) H323 IN 21000 Stream1 - 384kbps[MP4]
+Stream2 - 320kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 07-22-2021 03:04PM (GMT+05:30) H323 OUT 21000 Stream1 - 384kbps[MP4]
+Stream2 - 320kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.76)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 07-22-2021 03:11PM (GMT+05:30) H323 IN 21000 Stream1 - 384kbps[MP4]
+Stream2 - 320kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 1408
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.76)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 08-11-2021 05:39PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-11-2021 05:42PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-11-2021 05:57PM (GMT+05:30) SIP OUT 71332898 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 08-11-2021 06:27PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-11-2021 07:07PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 08-11-2021 07:14PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 08-11-2021 07:21PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-16-2021 05:32PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 08-16-2021 05:39PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-16-2021 05:43PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-16-2021 05:59PM (GMT+05:30) SIP OUT 25325461 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 08-16-2021 06:32PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1623-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-16-2021 07:04PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-16-2021 07:11PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 1424
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 08-16-2021 07:18PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+indiags500 08-16-2021 07:24PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 08-16-2021 07:30PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 09-08-2021 01:24PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1625-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 09-08-2021 02:02PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1623-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 09-08-2021 02:41PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-08-2021 05:19PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 09-08-2021 05:26PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-08-2021 05:30PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-08-2021 05:45PM (GMT+05:30) SIP OUT 42667220 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 09-08-2021 06:16PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-08-2021 06:48PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-08-2021 06:54PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 09-08-2021 07:00PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-08-2021 07:06PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 09-08-2021 07:12PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-21-2021 04:59PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-21-2021 05:09PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 09-21-2021 05:13PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.61)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+[2402 10-05-2021 02:49PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-1625-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 03:07PM (GMT+05:30) SIP OUT 87862278 1024kbps[MP4]
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 04:04PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+[2402 10-05-2021 04:11PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 04:17PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-05-2021 04:22PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 05:58PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+[2402 10-05-2021 06:04PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 06:08PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 06:27PM (GMT+05:30) SIP OUT 9752959 1024kbps[MP4]
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 07:20PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 1424
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+[2402 10-05-2021 07:26PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-05-2021 07:32PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 1424
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.56)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-05-2021 07:37PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 10-18-2021 07:27PM (GMT+05:30) H323 OUT 21000 464kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-18-2021 07:31PM (GMT+05:30) SIP OUT 21000 464kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-18-2021 07:49PM (GMT+05:30) SIP OUT 64805956 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-18-2021 08:16PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-18-2021 08:50PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 10-18-2021 08:56PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-18-2021 09:03PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-19-2021 11:59AM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-19-2021 05:11PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 10-19-2021 05:17PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-19-2021 05:21PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-19-2021 05:40PM (GMT+05:30) SIP OUT 3797412 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-19-2021 06:08PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-19-2021 06:48PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-19-2021 06:54PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 10-19-2021 07:00PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-19-2021 07:10PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 1408
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-20-2021 12:35PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-20-2021 01:18PM (GMT+05:30) SIP OUT 21000 1152kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-20-2021 01:35PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-20-2021 01:40PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 01:43PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 01:54PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 01:59PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 02:12PM (GMT+05:30) SIP OUT 80459096 Off
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 04:22PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 04:30PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 04:35PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 04:48PM (GMT+05:30) SIP OUT 79845397 Off
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-21-2021 05:17PM (GMT+05:30) H323 OUT 21000 Off
+
+
+EXTMSEN-1623-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 06:06PM (GMT+05:30) SIP IN 21000 Off
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 10-21-2021 06:12PM (GMT+05:30) H323 OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 06:18PM (GMT+05:30) SIP IN 21000 Off
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-21-2021 06:23PM (GMT+05:30) H323 IN 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 1408
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-21-2021 06:28PM (GMT+05:30) SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-26-2021 05:49PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-26-2021 05:55PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 06:40PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 10-27-2021 06:47PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 06:50PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 06:56PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 07:00PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 07:05PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 07:19PM (GMT+05:30) SIP OUT 21720549 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-27-2021 07:48PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 08:37PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 1424
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 10-27-2021 08:43PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H263p
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 08:49PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 10-27-2021 08:55PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-27-2021 08:59PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 10-28-2021 10:54AM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.62)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 11-26-2021 01:27PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 11-26-2021 01:34PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 11-26-2021 01:38PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+Redialing...
+india500 SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type
+Audio Call Rate (Kbps)
+Video Type
+Video Call Rate (Kbps)
+Content Type
+Content Call Rate (Kbps)
+Status Idle
+Encryption
+Recording Server Media Suite Center (10.97.52.79)
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+Redialing...
+india500 SIP OUT 21000 Off
+Detail Call Information
+VRR Name Default VRR
+Audio Type
+Audio Call Rate (Kbps)
+Video Type
+Video Call Rate (Kbps)
+Content Type
+Content Call Rate (Kbps)
+Status Idle
+Encryption
+Recording Server Media Suite Center (10.97.52.79)
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+Redialing...
+india500 SIP OUT 21000 Off
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 11-26-2021 02:03PM (GMT+05:30) SIP OUT 88222807 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 11-26-2021 02:30PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 11-26-2021 03:18PM (GMT+05:30) SIP OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 11-26-2021 03:24PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 11-26-2021 03:30PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 11-26-2021 03:37PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 11-26-2021 03:42PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 1424
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.79)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+Redialing...
+india500 SIP OUT 21000 Off
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 03:51PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 01-10-2022 03:58PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 04:01PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 04:07PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 04:12PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 04:16PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 04:22PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 04:36PM (GMT+05:30) SIP OUT 5658663 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 01-10-2022 05:04PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+
+
+EXTMSEN-1623-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 01-10-2022 05:48PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 01-10-2022 05:54PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 01-10-2022 06:00PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 06:06PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-10-2022 06:11PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 01-11-2022 11:56AM (GMT+05:30) H323 IN 21000 1024kbps[MP4]
+
+
+
+EXTMSEN-1621-Test case is passed
+
+
+EXTMSEN-1618-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 12:29PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 01-11-2022 12:36PM (GMT+05:30) H323 OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 12:40PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 12:46PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Idle
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 12:50PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 12:54PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 01:00PM (GMT+05:30) SIP OUT 21000 1024kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed
+
+
+EXTMSEN-1617-Test case is passed
+
+
+EXTMSEN-1621-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 01:14PM (GMT+05:30) SIP OUT 78400181 1024kbps[MP4]
+
+EXTMSEN-1619-Test case is passed
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 01-11-2022 01:43PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-1623-Test case is passed
+
+
+EXTMSEN-1619-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 02:36PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type G722_1C_48
+Audio Call Rate (Kbps) 48
+Video Type H264_HP
+Video Call Rate (Kbps) 1424
+Content Type H264_HP
+Content Call Rate (Kbps) 768
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+10.97.52.90 01-11-2022 02:43PM (GMT+05:30) H323 OUT 21000 384kbps[MP4]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type H264_HP
+Video Call Rate (Kbps) 4032
+Content Type H264_HP
+Content Call Rate (Kbps) 3072
+Status Start Recording
+Encryption AES_256
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 02:49PM (GMT+05:30) SIP IN 21000 384kbps[MP4]
+
+
+EXTMSEN-1625-Test case is passed
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+50090 01-11-2022 02:54PM (GMT+05:30) H323 IN 21000 384kbps[MP4]
+
+
+
+Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
+india500 01-11-2022 02:58PM (GMT+05:30) SIP OUT 21000 64kbps[M4A]
+Detail Call Information
+VRR Name Default VRR
+Audio Type SIRENLPR_64
+Audio Call Rate (Kbps) 64
+Video Type NONE
+Video Call Rate (Kbps) 0
+Content Type NONE
+Content Call Rate (Kbps) 0
+Status Start Recording
+Encryption OFF
+Recording Server Media Suite Center (10.97.52.54)
+
+EXTMSEN-Test case is passed

@@ -1,0 +1,1 @@
+start chrome --allow-file-access-from-files file:///C:/jenkins/workspace/Regression/allure-report/index.html#
