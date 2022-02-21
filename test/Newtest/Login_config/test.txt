@@ -1,2 +1,0 @@
-Far End Number Start Time Signaling Type Dial In/Out VRR Number Live Streaming Detail Real Time Information
-84 02-06-2020 01:20PM (GMT+05:30) H323 OUT 21000 test - 768kbps[MP4]
