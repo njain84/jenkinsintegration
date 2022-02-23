@@ -4,7 +4,7 @@ import tkinter as tk
 import time
 import logging
 from selenium import webdriver
-from .test.Login_config.LoginHandleradminportal import Loginmsadmin
+from test.Login_config.LoginHandleradminportal import Loginmsadmin
 from selenium.webdriver.support.ui import Select
 import unittest
 import openpyxl
