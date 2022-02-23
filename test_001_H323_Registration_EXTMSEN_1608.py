@@ -1,35 +1,39 @@
-import unittest
-from selenium import webdriver
 import webbrowser
-from test import test_0001_H323_Registration_EXTMSEN_1608
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import allure
-import pytest
+import requests
+import tkinter as tk
+import time
+import logging
+from selenium import webdriver
+from selenium.webdriver.support.ui import Select
+import unittest
+import openpyxl
 from configparser import ConfigParser
-
-class Smoketest(unittest.TestCase):
-
-    parser = ConfigParser()
-    parser.read('config.ini')
-    TEST_CASE_LINK = 'https://github.com/qameta/allure-integrations/issues/8#issuecomment-268313637'
-    
-    @allure.issue("140", parser.get('bug_tracker', 'build'))
-    @allure.link('https://jira.harman.com/jira/browse/EXTMSEN-1608', name='Jira_Click me once')
-    @allure.title('JiraID-EXTMSEN_1608')
-    @allure.description("Execution is on" + parser.get('bug_tracker', 'build'))
+import pytest
+from selenium.common.exceptions import TimeoutException, WebDriverException
 
 
-    def test_EXTMSEN_1608(self):
-        self.launch_site()
+class H323(unittest.TestCase):
 
+    def test_H323_Registration(self):
 
-    @allure.step("Launch1 site")
-    def launch_site(self):
-        smoke1 = test_0001_H323_Registration_EXTMSEN_1608.H323
-        smoke1.test_H323_Registration(self)
+        print("Hello....")
+        parser = ConfigParser()
+        parser.read('config.ini')
 
+        self.driver = webdriver.Chrome('C:/Program Files (x86)/Google/Chrome/chromedriver_win32/chromedriver.exe')
+		
+        #print("do login Method called :", self.username)
+        self.driver.get('http://10.97.52.56/admin/login.jsf')
+        time.sleep(5)
+        print("Hi")
+        self.driver.find_element_by_id('loginForm:userName').send_keys(admin)
+        print("Hi")
+        time.sleep(3)
+        self.driver.find_elements_by_class_name('form-control')[1].send_keys(123)
+        print(self.driver.find_elements_by_class_name('btn')[0])
+        time.sleep(5)
+        self.driver.find_elements_by_class_name('btn')[1].click()
+        print(self.driver.find_elements_by_id('dialOutButton'))
 
-if __name__ == '__main__':
-    unittest.main()
+    if __name__ == '__main__':
+        unittest.main()
