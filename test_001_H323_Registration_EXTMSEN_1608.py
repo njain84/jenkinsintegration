@@ -20,7 +20,7 @@ class H323(unittest.TestCase):
         print("Hello....")
         parser = ConfigParser()
         parser.read('config.ini')
-		configFilePath = r'test\config.ini'
+        configFilePath = r'test\config.ini'
         parser.read(configFilePath)
         self.driver = webdriver.Chrome('C:/Program Files (x86)/Google/Chrome/chromedriver_win32/chromedriver.exe')
         mylogin = Loginmsadmin('admin', 123, parser.get('bug_tracker', 'url'), self.driver)
