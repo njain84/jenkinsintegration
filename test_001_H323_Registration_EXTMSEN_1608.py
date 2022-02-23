@@ -26,7 +26,7 @@ class H323(unittest.TestCase):
         self.driver.get('http://10.97.52.56/admin/login.jsf')
         time.sleep(5)
         print("Hi")
-        self.driver.find_element_by_id('loginForm:userName').send_keys(admin)
+        self.driver.find_element_by_id('loginForm:userName').send_keys('admin')
         print("Hi")
         time.sleep(3)
         self.driver.find_elements_by_class_name('form-control')[1].send_keys(123)
